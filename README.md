@@ -1,6 +1,6 @@
 #### Introduction
 
-- I am a Bash/Python developer. I work on freelance projects relating to scripting and automation of tasks in linux, file systems, networking, data and regex.
+- I work on freelance projects relating to Bash/Python scripting and automation of tasks in Linux, file systems, networking, data and regex.
 - Below is the scope of projects I undertake and how I can be reached in case you have a shell scripting or data handling task you wish to assign.
 
 #### Scope of projects/tasks
