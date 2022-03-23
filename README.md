@@ -5,12 +5,12 @@
 
 #### Scope of projects/tasks
 
-1. Bash/shell script development at any scope. Automation relating to Linux OS, configuration and hardening, network administration, file handling, regular expressions & patterns, and bulk data processing.
+1. Bash/shell script development at any scope. Automation relating to Linux OS, configurations and system hardening, network administration, file handling, regular expressions & patterns, and bulk data processing.
 > - Scripting, regex (sed, awk, ...), network commands, file systems & processes, security/encryption, package management, access control & user management, etc.
  
 2. Python: system-level and/or machine learning related projects only. Note that I do not take on web development tasks (Flask, Django, etc.).
 > - ML libraries (data, statistics, and visualization): numpy, pandas, matplotlib, sklearn, tensorflow, imblearn, scipy, statsmodels.
-> - Systems-related libraries: os, sys, subprocess, re.
+> - Systems-related libraries, e.g.: os, sys, subprocess, re.
 
 #### Procedure for requesting a task
 
@@ -31,6 +31,6 @@
 - At 2T/3 : deliverable-2 is submitted first, and a payment of P/3 is made. The project continues.
 - At T    : A payment of P/3 is made first, and deliverable-3 is submitted (completing the project). Modifications can be addressed during [T - E] if requested (a period of 1 week).
 
-By default, upon project completion, I may place a generic copy of the project's code in my GitHub repository. The copy will not include any details identifying or relating to the client or company (i.e. only source code in Bash/Python stripped of data or private info). If you have reservations regarding the placement of the project's code on GitHub, please mention it early on in step 1.
+By default, upon project completion, I may place a generic copy of the project's code in my GitHub repository. The copy will not include any detail identifying or relating to the client or company (i.e. it will only include the source code stripped of private data or info). If you have reservations regarding the placement of the project's code on GitHub, please mention it early on in step 1.
 
 **Sample projects**: <a class="external reference" href="https://github.com/thln2ejz">code repository</a>
