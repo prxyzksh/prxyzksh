@@ -5,12 +5,11 @@
 
 #### Scope of projects/tasks
 
-1. Bash/shell script development at any scope. Automation relating to Linux OS, configurations and system hardening, network administration, file handling, regular expressions & patterns, and bulk data processing.
-> - Scripting, regex (sed, awk, ...), network commands, file systems & processes, security/encryption, package management, access control & user management, etc.
+1. Bash/shell script development. Automation related to Linux OS, configurations and security hardening, networks, file handling, regular expressions & patterns, and bulk data processing.
+> - Scripting, regex (sed, awk, ...), network administration, file systems & processes, security/encryption, package management, access control & user management, etc.
  
-2. Python: system-level and/or machine learning related projects only. Note that I do not take on web development tasks (Flask, Django, etc.).
-> - ML libraries (data, statistics, and visualization): numpy, pandas, matplotlib, sklearn, tensorflow, imblearn, scipy, statsmodels.
-> - Systems-related libraries, e.g.: os, sys, subprocess, re.
+2. Python: systems-level projects and/or data processing. Note that I do not take on web development tasks (Flask, Django, etc.).
+> - Libraries: os, sys, subprocess, re, numpy, pandas, matplotlib.
 
 #### Procedure for requesting a task
 
